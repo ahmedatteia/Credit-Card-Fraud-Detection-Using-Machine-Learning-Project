@@ -1,8 +1,8 @@
 # Install Python packages
-pip install numpy
-pip install pandas
-pip install imbalanced-learn
-pip install scikit-learn
-pip install keras
-pip install matplotlib
-pip install seaborn
+numpy
+pandas
+imbalanced-learn
+scikit-learn
+keras
+matplotlib
+seaborn
